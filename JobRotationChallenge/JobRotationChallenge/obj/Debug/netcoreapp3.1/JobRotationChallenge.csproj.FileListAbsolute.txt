@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\bin\Debug\netcoreapp3.1\JobRotationChallenge.exe
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\bin\Debug\netcoreapp3.1\JobRotationChallenge.deps.json
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\bin\Debug\netcoreapp3.1\JobRotationChallenge.runtimeconfig.json
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\bin\Debug\netcoreapp3.1\JobRotationChallenge.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\bin\Debug\netcoreapp3.1\JobRotationChallenge.dll
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\bin\Debug\netcoreapp3.1\JobRotationChallenge.pdb
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.dll
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.pdb
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Fatec\Meus Projetos\JobRotationChallenge\JobRotationChallenge\obj\Debug\netcoreapp3.1\JobRotationChallenge.csproj.CopyComplete
